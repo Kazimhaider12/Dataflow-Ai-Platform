@@ -1,6 +1,3 @@
-# Dataflow-Ai-Platform
-AI-powered data automation &amp; analytics platform
-
 # 🚀 DataFlow AI Platform
 
 AI-powered data automation & analytics platform designed to turn raw data into actionable insights.
@@ -96,7 +93,7 @@ API_KEY=your_api_key_here
 ## 👨‍💻 Author
 
 **Kazim Haider Syed**  
-Data Analyst | BI Developer | Data Engineer  
+Data Analyst | Data Engineer | AI AUTOMATION | BI Developer 
 
 ---
 
