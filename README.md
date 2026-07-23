@@ -75,9 +75,13 @@ API_KEY=your_api_key_here
 
 ---
 
-## 📸 Screenshots
+## 📸 Outcome
 
-(Add your dashboard screenshots here)
+
+
+https://github.com/user-attachments/assets/c0cabfe6-b7a9-41f7-9220-c7fe3939e925
+
+
 
 ---
 
